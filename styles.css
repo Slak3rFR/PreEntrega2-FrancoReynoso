@@ -1,0 +1,16 @@
+h1 {
+    font-size: 40px;
+    color: blanchedalmond;
+    margin: 200px;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #21213d;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+    color: beige;
+    margin: 100px;
+}
